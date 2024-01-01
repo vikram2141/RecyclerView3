@@ -16,6 +16,7 @@ public class contentmodel {
 
    }
 
+   // Bhavesh kumar
     public int getImg(){return img;}
     public void setImg (int img){this.img = img;}
 
