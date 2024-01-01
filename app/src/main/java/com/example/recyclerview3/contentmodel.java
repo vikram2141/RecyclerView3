@@ -17,6 +17,8 @@ public class contentmodel {
    }
 
    // Bhavesh kumar
+    // Vikarm kuamr tesht pass
+
     public int getImg(){return img;}
     public void setImg (int img){this.img = img;}
 
